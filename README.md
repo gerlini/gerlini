@@ -1,7 +1,7 @@
 
 
 <img align="center" alt="banner" width="auto" src="banner.png">
-# Acerca de mi 
+
 <h1 align="center">Hola , soy ger </h1>
 
 <div>Estoy comenzando mi camino en el mundo de la programación, me gusta aprender cosas nuevas y aplicarlas dia a dia en mis proyectos.</div>
