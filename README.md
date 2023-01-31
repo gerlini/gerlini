@@ -1,4 +1,4 @@
-#👋 Hola , soy ger 👋
+# 👋 Hola , soy ger 👋
 
 
 ## 💻 **Skills**💻
