@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## 🍂 **Languages & Tools**
+## 💻 **Skills**💻
 
 <table align="center">
   <tr>
