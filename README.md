@@ -1,6 +1,6 @@
 # Hola , soy ger 👋
 
-<img align="center" alt="banner" width="auto" src="Banner.png">
+<img align="center" alt="banner" width="auto" src="banner.png">
 
 ##  **Skills**💻
 
