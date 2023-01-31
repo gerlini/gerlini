@@ -8,15 +8,9 @@
  La motivación que más me impulsa es aprender tecnologías innovadoras y aplicarlas diariamente para superar mis metas.
 <br/>
 <br/>
-
-Estoy actualmente en busqueda de mi primer empleo en el area IT.
-<br/>
-<br/>
-Proyectos Deployados:
-<br/>
-https://pf-techbunny-lake.vercel.app
 </div> 
-##  **Skills**💻
+
+#  **Skills**💻
 
 <table align="center">
   <tr>
