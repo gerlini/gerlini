@@ -10,7 +10,7 @@
 <br/>
 </div> 
 
-#  **Skills**💻
+#  <h1 align="center">**Skills**💻</h1>
 
 <table align="center">
   <tr>
