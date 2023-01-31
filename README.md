@@ -1,7 +1,21 @@
 
 
 <img align="center" alt="banner" width="auto" src="banner.png">
+# Acerca de mi 
+<h1 align="center">Hola , soy ger </h1>
 
+<div>Estoy comenzando mi camino en el mundo de la programación, me gusta aprender cosas nuevas y aplicarlas dia a dia en mis proyectos.</div>
+  Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas me motiva.
+<br/>
+<br/>
+
+Estoy actualmente en busqueda de mi primer empleo en el area IT.
+<br/>
+<br/>
+Proyectos Deployados:
+<br/>
+https://pf-techbunny-lake.vercel.app
+</div> 
 ##  **Skills**💻
 
 <table align="center">
@@ -83,6 +97,15 @@
   <a href="mailto:gerfer97.gf@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a> 
+
+
+Estoy actualmente en busqueda de mi primer empleo en el area IT.
+
+<br/>
+Proyectos Deployados:
+<br/>
+https://pf-techbunny-lake.vercel.app
+</div> 
 </div>  
 <!--
 **gerlini/gerlini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
