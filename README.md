@@ -4,7 +4,7 @@
 
 <h1 align="center">Hola , soy ger </h1>
 
-<div>Inicio mi recorrido en el ámbito de la programación, disfruto de adquirir conocimientos nuevos y aplicarlos en mis proyectos cotidianamente.</div>
+<div>En el año 2022 inicie mi recorrido en el ámbito de la programación, disfruto de adquirir conocimientos nuevos y aplicarlos en mis proyectos cotidianamente.</div>
  La motivación que más me impulsa es aprender tecnologías innovadoras y aplicarlas diariamente para superar mis metas.
 <br/>
 <br/>
