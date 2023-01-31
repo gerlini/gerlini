@@ -60,6 +60,17 @@
   </tr>
 </table>
 
+## Github Stats  
+<table><tr><td valign="top" width="50%"  >
+
+<img src="https://github-readme-stats.vercel.app/api?username=gerlini&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+
+</td><td valign="top" width="50%" >
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerlini&hide_border=true&layout=compact" align="center" style="width: 100%" />
+
+</td></tr></table>  
+
 ##  **Contacto** 📩
 <div align="center">
 <a href="https://github.com/gerlini" target="_blank">
