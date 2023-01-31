@@ -69,7 +69,7 @@
   </tr>
 </table>
 
-## Github Stats  
+##  <h1 align="center">**Github Stats**💻</h1> 
 <table><tr><td valign="top" width="50%"  >
 
 <img src="https://github-readme-stats.vercel.app/api?username=gerlini&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
@@ -80,7 +80,7 @@
 
 </td></tr></table>  
 
-##  **Contacto** 📩
+##  <h1 align="center">**Contacto** 📩</h1> 
 <div align="center">
 <a href="https://github.com/gerlini" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
