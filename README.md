@@ -23,16 +23,20 @@
       </a>
       <br>JavaScript
     </td>
-    
-  <td align="center" width="100">
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="50" height="50" alt="Postgresql" />
+      </a>
+      <br>PostgreSQL
+    </td>
+
+  </tr>
+    <td align="center" width="100">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50" alt="React" />
       </a>
       <br>React
-    </td>  
-  
-  </tr>
-    
+    </td>
     <td align="center" width="100">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="50" height="50" alt="Redux" />
@@ -52,12 +56,7 @@
       </a>
       <br>Express.js
     </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="50" height="50" alt="Postgresql" />
-      </a>
-      <br>PostgreSQL
-    </td>
+    
   </tr>
 </table>
 <!--
