@@ -1,7 +1,7 @@
 # 👋 Hola , soy ger 👋
 
 
-## 💻 **Skills**💻
+##                                                              💻 **Skills**💻
 
 <table align="center">
   <tr>
