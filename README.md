@@ -24,14 +24,15 @@
       <br>JavaScript
     </td>
     
-
-  </tr>
-    <td align="center" width="100">
+  <td align="center" width="100">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50" alt="React" />
       </a>
       <br>React
-    </td>
+    </td>  
+  
+  </tr>
+    
     <td align="center" width="100">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="50" height="50" alt="Redux" />
