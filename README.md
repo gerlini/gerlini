@@ -98,7 +98,10 @@ Estoy actualmente en busqueda de mi primer empleo en el area IT.
 <br/>
 Proyectos Deployados:
 <br/>
+TECHBUNNY
 https://pf-techbunny-lake.vercel.app
+Wheater App
+https://wheater-app-pi.vercel.app/
 </div> 
 </div>  
 <!--
